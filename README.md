@@ -38,10 +38,14 @@ You can view the live version of this portfolio here:
 👉 https://durga9338625.github.io/Portfolio/
 
 
-🤝 Let's Connect
+📬 Let's Connect & Collaborate
 
-GitHub: @durga9338625
+I'm always open to discussing new WordPress projects, frontend development work, or opportunities to collaborate! 
 
-LinkedIn: https://www.linkedin.com/in/durga-shakya-878772228/
+*   👉 **Visit my live Portfolio:**
+
+   https://durga9338625.github.io/Portfolio/ *(Use the contact form here to send a direct project inquiry!)*
+*   ✉️ **Direct Email:** mailto:durgashakya81@gmail.com
+*   🔗 **LinkedIn:** https://www.linkedin.com/in/durga-shakya-878772228/
 
 If you like this project or find it helpful, feel free to give it a star! ⭐
