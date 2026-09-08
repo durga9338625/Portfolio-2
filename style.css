@@ -347,6 +347,62 @@ h2 { font-family: var(--font-display); font-size: 30px; font-weight: 700; margin
   display: inline-block;
 }
 
+/* ===================== LIVE PROJECTS SECTION ===================== */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.project-card {
+  background: var(--bg-panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.project-card:hover {
+  border-color: var(--accent-orange, #ff6a3d);
+  transform: translateY(-4px);
+}
+
+.project-em {
+  font-size: 30px;
+  display: block;
+  margin-bottom: 14px;
+}
+
+.project-card h3 {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.project-card p {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.project-file {
+  margin-top: auto;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent-cyan, #5eead4);
+  background: rgba(94, 234, 212, 0.08);
+  border: 1px solid rgba(94, 234, 212, 0.2);
+  padding: 4px 10px;
+  border-radius: 4px;
+  display: inline-block;
+}
 /* =====================
    REVIEWS
    ===================== */
