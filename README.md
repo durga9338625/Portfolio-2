@@ -38,6 +38,7 @@ You can view the live version of this portfolio here:
 🤝 Let's Connect
 
 GitHub: @durga9338625
+
 LinkedIn: https://www.linkedin.com/in/durga-shakya-878772228/
 
 If you like this project or find it helpful, feel free to give it a star! ⭐
