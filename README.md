@@ -27,7 +27,9 @@ This project is built using:
 
 
 ├── index.html    # Main HTML structure of the website
+
 ├── style.css     # Stylesheet for layout, colors, and responsive design
+
 └── script.js     # JavaScript file for interactivity
 
 🚀 Live Demo
