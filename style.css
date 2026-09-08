@@ -96,12 +96,14 @@ body {
 }
 .nav-logo-accent { color: var(--accent-orange); }
 .nav-links { display: flex; gap: 26px; }
+
 .nav-links a {
   font-family: var(--font-mono);
-  font-size: 12px;
+  font-size: 14px;
   color: var(--text-muted);
   text-decoration: none;
   transition: color 0.2s;
+  text-transform: capitalize;
 }
 .nav-links a:hover { color: var(--accent-cyan); }
 .nav-cta {
