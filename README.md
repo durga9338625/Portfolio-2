@@ -32,12 +32,6 @@ This project is built using:
 
 └── script.js     # JavaScript file for interactivity
 
-🚀 Live Demo
-You can view the live version of this portfolio here:
-
-👉 https://durga9338625.github.io/Portfolio/
-
-
 📬 Let's Connect & Collaborate
 
 I'm always open to discussing new WordPress projects, frontend development work, or opportunities to collaborate! 
